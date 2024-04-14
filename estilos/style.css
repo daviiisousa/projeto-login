@@ -59,7 +59,9 @@ form > div.campo{
     height: 40px;
     width: 100%;
     text-align: center;
+    
 }
+
 
 form > input[type=submit] {
     width:100%;

@@ -29,17 +29,27 @@
         margin-top: 10px;
         display: block;
     }
-    form > a.botao{
-    text-align: center;
-    display: block;
-    text-decoration: none;
-    background-color: rgb(58, 243, 172);
-    margin-top: 10px;
-    padding: 5px;
-    border-radius: 10px;
-    margin-inline-start: 31%;
-    color: rgb(0, 0, 0);
-}
+     form > a.botao{
+        text-align: center;
+        display: block;
+        text-decoration: none;
+        background-color: rgb(58, 243, 172);
+        margin-top: 10px;
+        padding: 5px;
+        border-radius: 10px;
+        margin-inline-start: 31%;
+        color: rgb(0, 0, 0);
+    }
+    form > div.campo{
+        background-color: rgb(0, 183, 255);
+        color: white;
+        border-radius: 5px;
+        margin: 5px 0px;
+        height: 40px;
+        width: 879px;
+        text-align: center;
+        
+    }
 }
 
 @media screen and (min-width: 992px){
