@@ -16,7 +16,9 @@
         float: right;
         width: 70%;
     }
-
+    div#foto{
+        margin-right: 10px;
+    }
 }
 
 @media screen and (min-width: 992px){
